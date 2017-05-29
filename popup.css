@@ -1,0 +1,27 @@
+html{
+	background:#083E52;
+}
+
+.btn-col button,.side-bar-left .menu-opt {
+  float:left;
+  padding:10px 0px;
+  cursor:pointer;
+}
+
+.btn-col button {
+  width: 194px;
+  margin-bottom:10px;
+  background:#26AAD8;
+  color:#FFFFFF;
+  border:solid 1px #FFFFFF;
+  border-radius:5px;
+}
+.btn-col textarea {
+  float:left;
+  width: 188px;
+  height: 80px;
+  margin-bottom:10px;
+}
+.btn-col button:hover{
+	background:#0D91BF;
+}
